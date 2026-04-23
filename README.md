@@ -10,8 +10,8 @@
 | [falorin-office-console](https://github.com/unreal-urban/falorin-office-console/actions?query=branch%3Amain) | 1.17.1 | ⬆️ | 1.18.0 | 🟢 | 2 |
 | [falorin-office-workflows](https://github.com/unreal-urban/falorin-office-workflows/actions?query=branch%3Amain) | 0.3.0 | ⬆️ | 0.3.1 | 🟢 | 1 |
 | [falorin-content](https://github.com/unreal-urban/falorin-content/actions?query=branch%3Amain) | 3.0.0 |  | -- | 🟢 | 7&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-content/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
-| [falorin-models](https://github.com/unreal-urban/falorin-models/actions?query=branch%3Amain) | 14.0.2 |  | -- | 🟢 | 4&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-models/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
+| [falorin-models](https://github.com/unreal-urban/falorin-models/actions?query=branch%3Amain) | 14.0.3 |  | -- | 🟢 | 4&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-models/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
 | [common-utils](https://github.com/unreal-urban/common-utils/actions?query=branch%3Amain) | 7.0.0 |  | -- | 🟢 | 7&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/common-utils/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
-| [unreal-cli](https://github.com/unreal-urban/unreal-cli/actions?query=branch%3Amain) | 7.1.0 |  | -- | 🟢 | 5&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/unreal-cli/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
+| [unreal-cli](https://github.com/unreal-urban/unreal-cli/actions?query=branch%3Amain) | 7.1.0 |  | -- | 🟢 | 6&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/unreal-cli/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
 <!-- REPO_STATUS_BOARD:END -->
 
