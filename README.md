@@ -3,7 +3,7 @@
 
 | PROJECT | PROD |  | UAT | STATUS | OPEN PRs |
 | --- | --- | --- | --- | --- | --- |
-| [falorin-consumer-backend](https://github.com/unreal-urban/falorin-consumer-backend/actions?query=branch%3Amain) | 1.40.1 | ⬆️ | 1.40.2 | 🟢 | 22&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-consumer-backend/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
+| [falorin-consumer-backend](https://github.com/unreal-urban/falorin-consumer-backend/actions?query=branch%3Amain) | 1.40.1 | ⬆️ | 1.40.2 | 🟢 | 21&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-consumer-backend/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
 | [falorin-consumer-mobile](https://github.com/unreal-urban/falorin-consumer-mobile/actions?query=branch%3Amain) | 2.44.0 | ⬆️ | 2.45.0 | 🟢 | 2 |
 | [falorin-consumer-portal](https://github.com/unreal-urban/falorin-consumer-portal/actions?query=branch%3Amain) | 1.31.1 | ⬆️ | 1.32.0 | 🟢 | 4&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-consumer-portal/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
 | [falorin-office-backend](https://github.com/unreal-urban/falorin-office-backend/actions?query=branch%3Amain) | 1.31.0 |  | 1.31.0 | 🟢 | 7&nbsp;&nbsp;&nbsp;[Review](https://github.com/unreal-urban/falorin-office-backend/pulls?q=is%3Apr+is%3Aopen+base%3Amain) |
